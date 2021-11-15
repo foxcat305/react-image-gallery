@@ -43,7 +43,7 @@
   "bugs": {
     "url": "https://github.com/foxcat305/react-image-gallery/issues"
   },
-  "homepage": "https://github.com/foxcat305/react-image-gallery",
+  "homepage": "https://foxcat305.github.io/react-image-gallery",
   "devDependencies": {
     "@babel/core": "^7.13.14",
     "@babel/preset-env": "^7.13.12",
